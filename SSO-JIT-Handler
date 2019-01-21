@@ -1,11 +1,11 @@
 /**************************************************************************************
 *	Apex	Class	Name      :	licenceRecyclingHandler  ********AutocreatedRegHandler1543839642192********
-*	Version	 			        :	1.0	
-*	Created	Date		      :	03	DEC	2018
-*	Function			        :	Licence Recycling using JIT Handler
-*	Description			      :	Insert user and update, 
-*	Modification	Log	    :	
-*	Jira Story			      :	 JIRA - storyNo.
+*	Version	 		:	1.0	
+*	Created	Date		:	03	DEC	2018
+*	Function		:	Licence Recycling using JIT Handler
+*	Description		:	Insert user and update, 
+*	Modification	Log	:	
+*	Jira Story		:	 JIRA - storyNo.
 *	Developer												Date														Description
 *	------------------------------------------------------------------------------------------------------------------------------------- 																
 *	Vipeen	Sarode										03/12/2010												Original	Version
