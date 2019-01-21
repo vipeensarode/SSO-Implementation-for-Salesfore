@@ -6,9 +6,9 @@
 *	Description		:	Insert user and update, 
 *	Modification	Log	:	
 *	Jira Story		:	 JIRA - storyNo.
-*	Developer												Date														Description
+*	Developer										Date														Description
 *	------------------------------------------------------------------------------------------------------------------------------------- 																
-*	Vipeen	Sarode										03/12/2010												Original	Version
+*	Vipeen	Sarode										03/12/2018												Original	Version
 
 *******************************************************************************************************************************************/
 //This class provides logic for inbound just-in-time provisioning of single sign-on users in your Salesforce organization.
